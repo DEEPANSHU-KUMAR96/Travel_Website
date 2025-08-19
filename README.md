@@ -1,6 +1,6 @@
 # Travel Website 🌍✈️
 
-This is a responsive travel-themed website built using HTML, CSS, and JavaScript. It features animated sections, interactive menus, and custom-designed assets like flags, lemons, and burgers to enhance visual storytelling.
+This is a responsive travel-themed website built using HTML, CSS, and JavaScript. It features animated sections, interactive menus, and custom-designed assets like flags, icons, and  to enhance visual storytelling.
 
 ## Features
 - Fully responsive layout with media queries
